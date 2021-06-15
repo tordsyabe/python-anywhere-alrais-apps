@@ -1,0 +1,42 @@
+__pycache__/
+.env
+.venv
+env/
+ENV/
+env.bak/
+venv.bak/
+*.xlxs
+*.zip
+*.pdf
+*.py[co]
+*.DS_*
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+.idea/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Translations
+*.mo
+
+#Mr Developer
+venv
+*.pyc
+build
+*.swp
+*.save
